@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Etienne and I'm a science teacher in Paris with a research background in neuroscience and biochemistry 💡🔬🧬🦠🧠 . 
+I'm a science teacher in Paris with a research background in neuroscience and biochemistry 💡🔬🧬🦠🧠 . 
 
 🌱 I'm also a self-taught pythonista, i do love code and i'm currently learning ML/DL tools, C, JS, React and D3js.
 
