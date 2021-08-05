@@ -1,21 +1,23 @@
 ### Hi there 👋
 
-I'm a science teacher in Paris with a research background in neuroscience and biochemistry. I'm also a self-taught pythonista and I'm currently learning ML/DL tools, C, JS, React and D3js.
+My name's Etienne and I'm a science teacher in Paris with a research background in neuroscience and biochemistry 💡🔬🧬🦠🧠 . 
 
-I'm open to remarks and collaboration! Please reach me on twitter @E_Dmz or @E_Dmz_Bot.
+🌱 I'm also a self-taught pythonista, i do love code and i'm currently learning ML/DL tools, C, JS, React and D3js.
 
-I'm having a lot of fun coding and developing little apps that can be helpful or just interesting.
+🙋‍♀️🙋‍♂️ I'm looking to collaborate on various projects! 💬 You can reach me on twitter @E_Dmz or @E_Dmz_Bot.
 
-My twitter suite includes:
+My github repos contain apps that automate various tasks or help understanding "how it all works".
+
+🐦 #twitterapi suite:
 * ![How to publish a thread from a simple text file](https://github.com/E-Dmz/ThreadFromATextFileScript)
 * ![How to write a script that publishes itself when executed](https://github.com/E-Dmz/SelfTweetingScript)
 * ![How to reply automatically "pong" when a tweet that contains "ping" is mentioning you](https://github.com/E-Dmz/PingPong)
 * ![How to politely greet your followers in the morning](https://github.com/E-Dmz/WakeUp)
 
-My data analysis suite includes:
+📈 #dataviz suite:
 * ![A daily graph representation of Covid data in France](https://github.com/E-Dmz/DisplayDataCovid)
 
-My miscellaneous suite includes:
+💡 #misc. suite:
 * ![A piece of code that shows how a simple 4-verse poem (in French) can provide you with a most precise approximation of pi](https://github.com/E-Dmz/PiPoem)
 
 
