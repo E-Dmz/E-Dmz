@@ -17,7 +17,7 @@
     * ![PingPong: Replies automatically "pong" when you're mentionned in a tweet that contains "ping" (even more useless)](https://github.com/E-Dmz/PingPong)
     * ![WakeUp: Politely greets your followers in the morning](https://github.com/E-Dmz/WakeUp)
   
-  - 💡 #misc. suite:
+  - 💡 #miscellaneous:
     * ![PiPoem: A piece of code showing that a simple 4-verse poem (in French) can provide you with a most precise approximation of pi](https://github.com/E-Dmz/PiPoem)
 
 
