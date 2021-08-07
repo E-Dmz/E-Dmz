@@ -6,11 +6,10 @@
 
 - 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can follow/reach me on Twitter @E_Dmz and @E_Dmz_Bot.
 
-- My github repos contain apps that automate various tasks or help understanding "how it all works".
+- My github repos contain apps that automate various tasks or help understanding "how it all works":
 
-
-📈 #dataviz suite:
-* ![A daily graph dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
+  - 📈 #dataviz suite:
+    - ![A daily graph dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
 
 🐦 #twitterapi suite:
 * ![How to publish a thread from a simple text file](https://github.com/E-Dmz/ThreadFromATextFileScript)
