@@ -2,11 +2,11 @@
 
 - I'm a science teacher in Paris with a research background in neuroscience and biochemistry 💡🔬🧬🦠🧠 . 
 
-- 🌱 I'm a self-taught pythonista, i do love code and i'm currently learning ML/DL tools, C, JS, React and D3js.
+- 🌱 I'm a self-taught pythonista, i do love code and i'm currently learning ML/DL tools and JS. I'd like to learn React and D3js in the near future and possibly C.
 
 - 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can follow/reach me on Twitter @E_Dmz and @E_Dmz_Bot.
 
-- My github repos contain apps that automate various tasks or help understanding "how it all works":
+- My Github repos contain apps that automate various tasks or help understanding "how it all works":
 
   - 📈 #dataviz suite:
     * ![DisplayDataCovid: Tweets a daily dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
