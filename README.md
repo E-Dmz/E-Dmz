@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a science teacher in Paris with a research background 💡🔬 in neuroscience 🧠 and biochemistry 🧬. 
+- I'm a science teacher in Paris with a research background 💡🔬 in neuroscience 🧠 biochemistry 🧬 and pharmacology 💊. 
 
 - 🌱 I'm a self-taught pythonista, i do love code and i'm currently learning ML/DL tools and JS. I'd like to learn React and D3js in the near future.
 
