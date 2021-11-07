@@ -2,7 +2,7 @@
 
 - I'm a 🔬 science teacher in Paris with a 💡 research background in 🧠 neuroscience. 
 
-- 🌱 I'm a self-taught pythonista, i do love code and i'm currently learning ML/DL tools and JS. I'd like to learn React and D3js in the near future.
+- 🌱 I'm a self-taught pythonista and I'm currently enrolled in Le Wagon Data Science bootcamp in Paris.
 
 - 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can follow/reach me on Twitter @E_Dmz and @E_Dmz_Bot.
 
