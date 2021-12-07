@@ -4,7 +4,7 @@
 
 - 🌱 I completed a Data Science bootcamp at Le Wagon Paris.
 
-- 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can reach me on Twitter @E_Dmz and @E_Dmz_Bot.
+- 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can reach me on Twitter @E_Dmz
 
 - final project at Le Wagon [->link<-](https://github.com/antifakescience)
 
