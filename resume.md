@@ -24,7 +24,7 @@
 |2021|**Data science bootcamp,** *Le Wagon* 
 |2012|**Agrégation de biochimie-génie biologique**
 |2011| **PhD.,** *University of Montpellier*
-|2003-2007| ***École Normale Supérieure***
+|2003-2007| **École Normale Supérieure**
 |2001-2003|CPGE, *Lycée Henri IV*
 
 ## Technical skills
