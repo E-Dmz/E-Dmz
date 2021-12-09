@@ -1,6 +1,6 @@
 # Étienne Doumazane, Ph.D.
 ### Junior Data Scientist
-*Freshly graduated from Le Wagon Paris (data science track), my ideal job would be in an experienced and proactive data science team. I'm thrilled by the latest development of DL technologies and I want to specialize into the field of NLP. I have a strong experience in scientific research and education, and I am passionate about learning, designing tools and automating tasks.*
+*Freshly graduated from Le Wagon Paris (data science track), my ideal job would be to part of an experienced and proactive data science team. I'm thrilled by the latest development of DL technologies and I want to specialize in the field of NLP. I have a strong experience in scientific research and education, and I am passionate about learning, designing tools and automating tasks.*
 
 #### etienne.doumazane@gmail.com • 06 72 74 31 43 • [LinkedIn](www.linkedin.com/in/etienne-doumazane) • [GitHub](www.github.com/E-Dmz)
 
