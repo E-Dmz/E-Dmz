@@ -12,11 +12,11 @@
 [*VelibInParis*](www.missinglink.edz)|personal project|Leveraging on a home NAS, I've been capturing the state of Velib stations for several months at a 5-minute resolution. I created an API serving station-by-station viz, explored the different profiles and ML models|day data engineering, fastAPI, SQL, ML, NAS
 
 ## Work experience
-||Employer|Title|Summary
+||Employer|Title|Main activities
 |-|-|-|-|
 |2021-2022 |*Le Wagon* |**Teaching assistant**  Data Science |Mentoring and debugging students • consolidating my ML engineering skills • refining personal projects
-|2012-2021 |*Ministère de l'Éducation nationale*|**Biotechnology Teacher** • teaching varied audience, from high-school students to technicians • involved in internship monitoring and career coaching • member of the national teacher recruitment board (jury de l'agrégation)
-|2007-2011 |*CNRS* |**Ph.D. candidate** • investigating the brain's chemical communication • successfully collaborated with a drug-discovery [company](https://fr.cisbio.eu/) • high impact scientific research: see [publications](https://scholar.google.com/citations?hl=en&user=_GG5vHQAAAAJ) and [patent](https://patents.google.com/patent/US8697380B2/en))
+|2012-2021 |*Ministère de l'Éducation nationale*|**Biotechnology Teacher** |Teaching varied audience, from high-school students to technicians • involved in internship monitoring and career coaching • member of the national teacher recruitment board (jury de l'agrégation)
+|2007-2011 |*CNRS* |**Ph.D. candidate**|Investigating the brain's chemical communication • successful collaboration with a drug-discovery [company](https://fr.cisbio.eu/) • high impact scientific research: see [publications](https://scholar.google.com/citations?hl=en&user=_GG5vHQAAAAJ) and [patent](https://patents.google.com/patent/US8697380B2/en))
 
 ## Education
 ||Achievements|
