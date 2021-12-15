@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- I'm a 🔬 science teacher in Paris with a 💡 research background in 🧠 neuroscience. 
+- I'm 37 and I live in Paris. 
+- I spent 10y studying and doing research in 🧬💊🧠 (biochemistry, pharmacology and neuroscience).
+- I spent another 10y teaching science and techniques to 👨‍🎓👷‍♀️👨‍⚕️ (high-school students, water treatment technicians and radiology technicians). 
+- I'm passionate about 💡🔧🧮 (learning, designing new tools and automating tasks)
+- I'm training as a data scientist and I recently completed the Data Science track of Le Wagon 
+- 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can reach me on Twitter @E_Dmz and on LinkedIn
 
-- 🌱 I completed a Data Science bootcamp at Le Wagon Paris.
-
-- 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can reach me on Twitter @E_Dmz
-
-- final project at Le Wagon [->link<-](https://github.com/antifakescience)
+- Final project at Le Wagon [->link<-](https://github.com/antifakescience)
 
 - My Github repos (currently poorly maintained, as of November 2021) contain scripts that automate tasks or help understanding "how it all works":
 
