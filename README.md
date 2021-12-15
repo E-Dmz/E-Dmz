@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-- I'm 37 and I live in Paris. 
-- I spent 10y studying and doing research in 🧬💊🧠 (biochemistry, pharmacology and neuroscience).
-- I spent another 10y teaching science and techniques to 👨‍🎓👷‍♀️👨‍⚕️ (high-school students, water treatment technicians and radiology technicians). 
-- I'm passionate about 💡🔧🧮 (learning, designing new tools and automating tasks)
+- I'm 37 and I live in Paris 
+- I spent 10y studying and doing research in 🧬💊🧠 biochemistry, pharmacology and neuroscience
+- I spent another 10y teaching science and techniques to 👨‍🎓👷‍♀️👨‍⚕️ high-school students, water treatment technicians and radiology technicians
+- I'm passionate about 💡🔧🧮 learning, designing new tools and automating tasks
 - I'm training as a data scientist and I recently completed the Data Science track of Le Wagon 
 - 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can reach me on Twitter @E_Dmz and on LinkedIn
 
+#### Projects
 - Final project at Le Wagon [->link<-](https://github.com/antifakescience)
 
 - My Github repos (currently poorly maintained, as of November 2021) contain scripts that automate tasks or help understanding "how it all works":
@@ -26,6 +27,13 @@
 
 <!--
 **E-Dmz/E-Dmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to train as a data scientist because i think AI is going to reshape our world, for better and for worse  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  I'm also passionate about 💡🔧🧮 and 🙋‍♀️🙋‍♂️🚀  
+🧬💊🧠 = "biochemistry, pharmacology and neuroscience"   ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+👨‍🎓👷‍♀️👨‍⚕️ =  "high school students, water treatment technicians and radiology technicians"   ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+💡🔧🧮 = "learning, designing new tools, automating tasks"   ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+🙋‍🙋‍♂️🚀 = "collaborating on impactful projects"
+
+Hi! I'm 37. I spent 10 years studying biology and doing research in biochemistry/pharmacology/neuroscience. I spent another 10 years teaching science and techniques to high-school students, water treatment technicians and radiology technicians. I'm training as a data scientist because i think AI is going to reshape our world, for better and for worse. I'm also passionate about learning, designing tools and automating tasks. After the bootcamp, i'd like to collaborate on meaningful and impactful projects.
 
 Here are some ideas to get you started:
 
