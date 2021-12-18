@@ -1,17 +1,23 @@
-### Hi there 👋
-
-- I'm 37 and I live in Paris 
-- I spent 10y studying and doing research in 🧬💊🧠 biochemistry, pharmacology and neuroscience
-- I spent another 10y teaching science and techniques to 👨‍🎓👷‍♀️👨‍⚕️ high-school students, water treatment technicians and radiology technicians
-- I'm passionate about 💡🔧🧮 learning, designing new tools and automating tasks
-- I'm training as a data scientist and I recently completed the Data Science track of Le Wagon 
-- 🙋‍♀️🙋‍♂️ I'd like to collaborate with you on some kick-ass project! 💬 You can reach me on Twitter @E_Dmz and on LinkedIn
-
-#### Projects
-- Final project at Le Wagon [->link<-](https://github.com/antifakescience)
-
-- My Github repos (currently poorly maintained, as of November 2021) contain scripts that automate tasks or help understanding "how it all works":
-
+# Hi there 👋
+## About me
+- After a first career in research (🧬💊🧠) and education (👨‍🎓👷‍♀️👨‍⚕️), I recently completed a Data Science training (Le Wagon, Paris).
+I'm thrilled by the latest development of Deep Learning and passionate about learning, designing tools and automating tasks.
+## Main projects
+### AntiFakeScience
+Final student project at Le Wagon, partnership with fact-checking organization ScienceFeedback. In a team of 4, we designed a web app aimed at screening contents that match the claims from a database. We used MPNET transformer embedding, web scraping and GCP. [->follow this link<-](https://github.com/antifakescience)
+### MaStationVelib
+*Vélib'* is a popular bike-rental service in Greater Paris. For several months, I've captured the state of the 1300+ docking points of the at a 5-minute resolution. This project aims at:
+- sharing this dataset through an API
+- displaying in a webapp a summary for your docking-station of interest
+- displaying the results of a wide analysis (*in progress*)
+- implementing ML models to predict the state of a docking point (*not yet*)
+I'm using my own NAS server (Synology DS720+), fastapi, pandas, matplotlib, streamlit, Heroku, Docker and GCP
+### DisplayCovidData
+SantéPubliqueFrance releases French Covid data on a daily basis. An early version of this project included fully-automated fetching, plotting and publishing on Twitter.
+## Gist Cheatsheets
+- Neural Networks
+- DataViz
+<!--
   - 📈 #dataviz suite:
     * ![DisplayDataCovid: Tweets a dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
 
