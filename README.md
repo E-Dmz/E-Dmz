@@ -4,20 +4,20 @@ After a first career in research (🧬💊🧠) and education (👨‍🎓👷�
 
 I'm thrilled by the latest development of Deep Learning and passionate about learning, designing tools and automating tasks.
 ## Main projects
-### AntiFakeScience
+### 🚒 AntiFakeScience
 Final student project at Le Wagon, partnering with fact-checking organization [ScienceFeedback](https://sciencefeedback.co). In a team of 4, we designed a web app aimed at screening contents that match the claims from a database. We used MPNET transformer embedding, web scraping and GCP.
 
 [link to repos](https://github.com/antifakescience) | [link to demo app](http://antifakescience.herokuapp.com/) | [link to demo slideshow](https://docs.google.com/presentation/d/1ebWiQwunrS-YNUi-8BIkRfkMZBjW9CD2oQK_mX6O304/edit?usp=sharing) | [link to demo video](https://www.youtube.com/embed/iL4D2hWe05o?start=3435)
-### MaStationVelib
-*Vélib'* is a popular bike-rental service in Greater Paris. For several months, I've captured the state of the 1300+ docking points of the at a 5-minute resolution. This project aims at:
+### 🚲 MaStationVelib
+*Vélib'* is a popular bike-rental service in Greater Paris. For several months, I've collected the state of 1300+ docking points (*stations*) at a 5-minute resolution. This project aims at:
 - sharing this dataset through an API
-- displaying in a webapp a summary for your docking-station of interest
+- showing a summary for your docking-station of interest
 - displaying the results of a wide analysis (*in progress*)
 - implementing ML models to predict the state of a docking point (*not yet*)
 I'm using my own NAS server (Synology DS720+), fastapi, pandas, matplotlib, streamlit, Heroku, Docker and GCP
-### DisplayCovidData
+### 📉 DisplayCovidData
 SantéPubliqueFrance releases French Covid data on a daily basis. An early version of this project included fully-automated fetching, plotting and publishing on Twitter.
-## Gist Cheatsheets
+## 📒 Gists and Cheatsheets
 - Neural Networks
 - DataViz
 <!--
