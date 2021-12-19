@@ -9,7 +9,7 @@ Final student project at Le Wagon, partnering with fact-checking organization [S
 
 [link to repos](https://github.com/antifakescience) | [link to demo app](http://antifakescience.herokuapp.com/) | [link to demo slideshow](https://docs.google.com/presentation/d/1ebWiQwunrS-YNUi-8BIkRfkMZBjW9CD2oQK_mX6O304/edit?usp=sharing) | [link to demo video](https://www.youtube.com/embed/iL4D2hWe05o?start=3435)
 ### 🚲 MaStationVelib
-*Vélib'* is a popular bike-rental service in Greater Paris. For several months, I've collected the state of 1300+ docking points (*stations*) at a 5-minute resolution. Project aims:
+*Vélib'* is a popular bike-rental service in Greater Paris. For several months, I've collected the state of 1300+ docking points (*stations*) with a 5-minute time interval. Project aims:
 - handle a dataset with tens of millions entries
 - share this dataset through an API
 - display (webapp) a summary for your favorite docking-station
@@ -19,8 +19,9 @@ I'm using my own NAS server (Synology DS720+) on a CRON task for data sourcing, 
 ### 📉 DisplayCovidData
 SantéPubliqueFrance is a government agency that releases Covid data on a daily basis. This project aims at visualizing this data in a somewhat original way. An early version of this project included fully-automated daily fetching, plotting and publishing on Twitter (cron task, requests, pandas/matplotlib, twitter API). I am currently refactoring, api-ing and simple-webapp-ing this.
 ## 📒 Gists, Cheatsheets, Examples
-- Neural Networks
-- DataViz
+- [Neural Networks](http://placeholder.edmz.fr)
+- [DataViz](http://placeholder.edmz.fr)
+- [Example PCA](http://placeholder.edmz.fr)
 ![Demo-dataset](pca-demo-iris.png)
 <!--
   - 📈 #dataviz suite:
