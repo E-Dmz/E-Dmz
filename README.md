@@ -22,6 +22,7 @@ SantéPubliqueFrance is a government agency that releases Covid data on a daily 
 - [Neural Networks](http://placeholder.edmz.fr)
 - [DataViz](http://placeholder.edmz.fr)
 - [Example PCA](http://placeholder.edmz.fr)
+
 ![Demo-dataset](pca-demo-iris.png)
 <!--
   - 📈 #dataviz suite:
