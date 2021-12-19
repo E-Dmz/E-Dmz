@@ -17,9 +17,10 @@ Final student project at Le Wagon, partnering with fact-checking organization [S
 I'm using my own NAS server (Synology DS720+), fastapi, pandas, matplotlib, streamlit, Heroku, Docker and GCP
 ### 📉 DisplayCovidData
 SantéPubliqueFrance releases French Covid data on a daily basis. An early version of this project included fully-automated fetching, plotting and publishing on Twitter.
-## 📒 Gists and Cheatsheets
+## 📒 Gists, Cheatsheets, Examples
 - Neural Networks
 - DataViz
+![Demo-dataset](PCA-demo-iris.png)
 <!--
   - 📈 #dataviz suite:
     * ![DisplayDataCovid: Tweets a dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
