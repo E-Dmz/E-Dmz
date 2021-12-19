@@ -18,12 +18,14 @@ Final student project at Le Wagon, partnering with fact-checking organization [S
 I'm using my own NAS server (Synology DS720+) on a CRON task for data sourcing, pandas and matplotlib for dataviz, streamlit, Heroku for front-end and fastapi, Docker, GCP for back-end.
 ### 📉 DisplayCovidData
 SantéPubliqueFrance is a government agency that releases Covid data on a daily basis. This project aims at visualizing this data in a somewhat original way. An early version of this project included fully-automated daily fetching, plotting and publishing on Twitter (cron task, requests, pandas/matplotlib, twitter API). I am currently refactoring, api-ing and simple-webapp-ing this.
-## 📒 Gists, Cheatsheets, Examples
+## 📒 Gists
 - [Neural Networks](http://placeholder.edmz.fr)
 - [DataViz](http://placeholder.edmz.fr)
-- [Example PCA](http://placeholder.edmz.fr)
 
-![Demo-dataset](pca-demo-iris.png)
+
+[PCA demo](https://gist.github.com/E-Dmz/d43c972ba0c51571c70dcb78dcaba79e)|[UMAP animate demo](http://placeholder.edmz.fr)
+-|-
+![PCA demo](pca-demo-iris.png)|![umapTopics](umapTopics.gif)
 <!--
   - 📈 #dataviz suite:
     * ![DisplayDataCovid: Tweets a dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
