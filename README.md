@@ -3,20 +3,21 @@
 After a first career in research (🧬💊🧠) and education (👨‍🎓👷‍♀️👨‍⚕️), I recently completed a [Data Science training](https://www.lewagon.com/data-science-course/full-time) at Le Wagon.
 
 I'm thrilled by the latest development of Deep Learning and passionate about learning, designing tools and automating tasks.
-## Project samples
+## Sample projects
 ### 🚒 AntiFakeScience
 Final student project at Le Wagon, partnering with fact-checking organization [ScienceFeedback](https://sciencefeedback.co). In a team of 4, we designed a web app aimed at screening contents that match the claims from a database. We used MPNET transformer embedding, web scraping and GCP.
 
 [link to repos](https://github.com/antifakescience) | [link to demo app](http://antifakescience.herokuapp.com/) | [link to demo slideshow](https://docs.google.com/presentation/d/1ebWiQwunrS-YNUi-8BIkRfkMZBjW9CD2oQK_mX6O304/edit?usp=sharing) | [link to demo video](https://www.youtube.com/embed/iL4D2hWe05o?start=3435)
 ### 🚲 MaStationVelib
-*Vélib'* is a popular bike-rental service in Greater Paris. For several months, I've collected the state of 1300+ docking points (*stations*) at a 5-minute resolution. This project aims at:
-- sharing this dataset through an API
-- showing a summary for your docking-station of interest
-- displaying the results of a wide analysis (*in progress*)
-- implementing ML models to predict the state of a docking point (*not yet*)
-I'm using my own NAS server (Synology DS720+), fastapi, pandas, matplotlib, streamlit, Heroku, Docker and GCP
+*Vélib'* is a popular bike-rental service in Greater Paris. For several months, I've collected the state of 1300+ docking points (*stations*) at a 5-minute resolution. Project aims:
+- handle a dataset with tens of millions entries
+- share this dataset through an API
+- display (webapp) a summary for your favorite docking-station
+- report the insights from a global analysis (*in progress*)
+- implement ML models to predict the state of a docking point (*not quite done yet*)
+I'm using my own NAS server (Synology DS720+) on a CRON task for data sourcing, pandas and matplotlib for dataviz, streamlit, Heroku for front-end and fastapi, Docker, GCP for back-end.
 ### 📉 DisplayCovidData
-SantéPubliqueFrance releases French Covid data on a daily basis. An early version of this project included fully-automated fetching, plotting and publishing on Twitter.
+SantéPubliqueFrance is a government agency that releases Covid data on a daily basis. This project aims at visualizing this data in a somewhat original way. An early version of this project included fully-automated daily fetching, plotting and publishing on Twitter (cron task, requests, pandas/matplotlib, twitter API). I am currently refactoring, api-ing and simple-webapp-ing this.
 ## 📒 Gists, Cheatsheets, Examples
 - Neural Networks
 - DataViz
