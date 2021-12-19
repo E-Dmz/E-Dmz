@@ -3,7 +3,7 @@
 After a first career in research (🧬💊🧠) and education (👨‍🎓👷‍♀️👨‍⚕️), I recently completed a [Data Science training](https://www.lewagon.com/data-science-course/full-time) at Le Wagon.
 
 I'm thrilled by the latest development of Deep Learning and passionate about learning, designing tools and automating tasks.
-## Main projects
+## Project samples
 ### 🚒 AntiFakeScience
 Final student project at Le Wagon, partnering with fact-checking organization [ScienceFeedback](https://sciencefeedback.co). In a team of 4, we designed a web app aimed at screening contents that match the claims from a database. We used MPNET transformer embedding, web scraping and GCP.
 
@@ -20,7 +20,7 @@ SantéPubliqueFrance releases French Covid data on a daily basis. An early versi
 ## 📒 Gists, Cheatsheets, Examples
 - Neural Networks
 - DataViz
-![Demo-dataset](PCA-demo-iris.png)
+![Demo-dataset](pca-demo-iris.png)
 <!--
   - 📈 #dataviz suite:
     * ![DisplayDataCovid: Tweets a dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
