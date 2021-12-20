@@ -14,9 +14,9 @@ Final student project at Le Wagon, partnering with fact-checking organization [S
 - reporting the insights from a global analysis (*in progress*)
 - implementing ML models to predict the state of a docking point (*not quite done yet*)
 
-[webapp](http://velib.edmz.fr/) | [API](https://velib-v1-hi7so7se7a-ew.a.run.app/docs) | [link to repo-back](https://github.com/E-Dmz/MaStationVelib) | [repo-front](https://github.com/E-Dmz/MaStationVelib-front) | [repo-explore](https://github.com/E-Dmz/VelibExplore) | 
+[link to webapp](http://velib.edmz.fr/) | [link to API](https://velib-v1-hi7so7se7a-ew.a.run.app/docs) | [link to repo-back](https://github.com/E-Dmz/MaStationVelib) | [link to repo-front](https://github.com/E-Dmz/MaStationVelib-front) | [link to repo-explore](https://github.com/E-Dmz/VelibExplore) | 
 
-[other project VelibAndCats](https://github.com/E-Dmz/VelibAndCats)
+[link a related project: VelibAndCats](https://github.com/E-Dmz/VelibAndCats)
 
 ***I'm using my own NAS server (Synology DS720+) on a CRON task for data sourcing, pandas and matplotlib for dataviz, streamlit, Heroku for front-end and fastapi, Docker, GCP for back-end.***
 
