@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About me
-After a first career in research (🧬💊🧠) and education (👨‍🎓👷‍♀️👨‍⚕️), I completed a [Data Science training](https://www.lewagon.com/data-science-course/full-time) and I continue learning Data Science and Machine Learning Engineering. I'm thrilled by the latest development of Deep Learning and passionate about learning, designing tools and automating tasks.
+After a first career in research (🧬💊🧠) and education (👨‍🎓👷‍♀️👨‍⚕️), I am learning and [teaching](https://www.lewagon.com/data-science-course/full-time) Data Science and ML Engineering. I'm thrilled by the latest development of Deep Learning and passionate about learning, designing tools and automating tasks.
 ## Sample projects
 ### 🚒 AntiFakeScience
 Final student project at Le Wagon, partnering with fact-checking organization [ScienceFeedback](https://sciencefeedback.co). In a team of 4, we designed a web app aimed at screening contents that match the claims from a database. We used MPNET transformer embedding, web scraping and GCP.
@@ -14,7 +14,9 @@ Final student project at Le Wagon, partnering with fact-checking organization [S
 - reporting the insights from a global analysis (*in progress*)
 - implementing ML models to predict the state of a docking point (*not quite done yet*)
 
-[repo-back]() | [repo-front]() | [repo-explore]() | [webapp](http://velib.edmz.fr/) | [API]()
+[webapp](http://velib.edmz.fr/) | [API](https://velib-v1-hi7so7se7a-ew.a.run.app/docs) | [link to repo-back](https://github.com/E-Dmz/MaStationVelib) | [repo-front](https://github.com/E-Dmz/MaStationVelib-front) | [repo-explore](https://github.com/E-Dmz/VelibExplore) | 
+
+[other project VelibAndCats](https://github.com/E-Dmz/VelibAndCats)
 
 ***I'm using my own NAS server (Synology DS720+) on a CRON task for data sourcing, pandas and matplotlib for dataviz, streamlit, Heroku for front-end and fastapi, Docker, GCP for back-end.***
 
