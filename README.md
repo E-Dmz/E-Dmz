@@ -1,6 +1,11 @@
 # Hi there 👋
 ## About me
-After a first career in research (🧬💊🧠) and education (👨‍🎓👷‍♀️👨‍⚕️), I completed a data science training. As a freelance data scientist, I keep learning and i'm involved in [teaching](https://www.lewagon.com/data-science-course/full-time). I'm thrilled by the latest development of Deep Learning and passionate about learning, designing tools and automating tasks.
+After a first career in scientific research (🧬💊🧠) and teaching (👨‍🎓👷‍♀️👨‍⚕️), 
+i'm currently involved in [teaching](https://www.lewagon.com/data-science-course/full-time) `data science` 
+and i'm working on projects (own and freelance). 
+I'm thrilled by the latest development of `Deep Learning` 
+and passionate about learning, designing tools and automating tasks.
+
 ## Sample projects
 ### 🚒 AntiFakeScience
 Final student project at Le Wagon, partnering with fact-checking organization [ScienceFeedback](https://sciencefeedback.co). In a team of 4, we designed a web app aimed at screening contents that match the claims from a database. We used MPNET transformer embedding, web scraping and GCP.
@@ -25,9 +30,9 @@ SantéPubliqueFrance is a government agency that releases Covid data on a daily 
 
 An early version of this project included fully-automated daily fetching, plotting and publishing on Twitter. 
 
-I am currently refactoring, api-ing and simple-webapp-ing this.
+I am currently refactoring and api-ing.
 
-I am using cron tasks, requests, pandas/matplotlib, twitter API
+I am using cron tasks, api query, pandas/matplotlib and twitter API
 ## 📒 Gists
 - [Neural Networks](http://placeholder.edmz.fr)
 - [DataViz](http://placeholder.edmz.fr)
