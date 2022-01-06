@@ -2,7 +2,7 @@
 ## About me
 After a first career in scientific research (🧬💊🧠) and teaching (👨‍🎓👷‍♀️👨‍⚕️), 
 i'm currently involved in [teaching](https://www.lewagon.com/data-science-course/full-time) `data science` 
-and i'm working on projects (own and freelance). 
+and working on projects (own and freelance). 
 I'm thrilled by the latest development of `Deep Learning` 
 and passionate about learning, designing tools and automating tasks.
 
