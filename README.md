@@ -5,7 +5,7 @@ i'm currently involved in [teaching](https://www.lewagon.com/data-science-course
 and working on projects (own and freelance). 
 I'm thrilled by the latest development of `Deep Learning` 
 and passionate about learning, designing tools and automating tasks.
-
+<!--
 ## Sample projects
 ### 🚒 AntiFakeScience
 Final student project at Le Wagon, partnering with fact-checking organization [ScienceFeedback](https://sciencefeedback.co). In a team of 4, we designed a web app aimed at screening contents that match the claims from a database. We used MPNET transformer embedding, web scraping and GCP.
@@ -41,7 +41,7 @@ I am using cron tasks, api query, pandas/matplotlib and twitter API
 [PCA demo](https://gist.github.com/E-Dmz/d43c972ba0c51571c70dcb78dcaba79e)|[UMAP animate demo](http://placeholder.edmz.fr)
 -|-
 ![PCA demo](pca-demo-iris.png)|![umapTopics](umapTopics.gif)
-<!--
+©
   - 📈 #dataviz suite:
     * ![DisplayDataCovid: Tweets a dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
 
