@@ -33,6 +33,8 @@ An early version of this project included fully-automated daily fetching, plotti
 I am currently refactoring and api-ing.
 
 I am using cron tasks, api query, pandas/matplotlib and twitter API
+
+-->
 ## 📒 Gists
 - [Neural Networks](http://placeholder.edmz.fr)
 - [DataViz](http://placeholder.edmz.fr)
@@ -41,6 +43,7 @@ I am using cron tasks, api query, pandas/matplotlib and twitter API
 [PCA demo](https://gist.github.com/E-Dmz/d43c972ba0c51571c70dcb78dcaba79e)|[UMAP animate demo](http://placeholder.edmz.fr)
 -|-
 ![PCA demo](pca-demo-iris.png)|![umapTopics](umapTopics.gif)
+<!--
 ©
   - 📈 #dataviz suite:
     * ![DisplayDataCovid: Tweets a dataviz of Covid-19 in France](https://github.com/E-Dmz/DisplayDataCovid)
