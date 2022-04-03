@@ -36,9 +36,10 @@ I am using cron tasks, api query, pandas/matplotlib and twitter API
 
 -->
 ## 📒 Gists
+<!--
 - [Neural Networks](http://placeholder.edmz.fr)
 - [DataViz](http://placeholder.edmz.fr)
-
+-->
 
 [PCA demo](https://gist.github.com/E-Dmz/d43c972ba0c51571c70dcb78dcaba79e)|[UMAP animate demo](http://placeholder.edmz.fr)
 -|-
