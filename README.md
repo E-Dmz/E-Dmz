@@ -1,10 +1,7 @@
 # Hi there 👋
 ## About me
-After a first career in scientific research (🧬💊🧠) and teaching (👨‍🎓👷‍♀️👨‍⚕️), 
-i'm currently involved in [teaching](https://www.lewagon.com/data-science-course/full-time) `data science` 
-and working on projects (own and freelance). 
-I'm thrilled by the latest development of `Deep Learning` 
-and passionate about learning, designing tools and automating tasks.
+I work in the [Renier lab](https://www.renier-lab.com/) at the [Paris Brain Institute](https://institutducerveau-icm.org/en/) (aka. Institut du Cerveau - ICM). I analyze whole brain imaging data (cells, axons, blood vessels) and spatial transcriptomics data (gene expression). I've been also teaching at Le Wagon Paris [`data science` bootcamp](https://www.lewagon.com/data-science-course/full-time) and on a NLP project at [Open Feedback](https://open.feedback.org/).
+
 <!--
 ## Sample projects
 ### 🚒 AntiFakeScience
@@ -34,12 +31,13 @@ I am currently refactoring and api-ing.
 
 I am using cron tasks, api query, pandas/matplotlib and twitter API
 
--->
+
 ## 📒 Gists
-<!--
+
 - [Neural Networks](http://placeholder.edmz.fr)
 - [DataViz](http://placeholder.edmz.fr)
--->
+
+
 
 [PCA demo](https://gist.github.com/E-Dmz/d43c972ba0c51571c70dcb78dcaba79e)|[UMAP animate demo](http://placeholder.edmz.fr)
 -|-
@@ -59,7 +57,7 @@ I am using cron tasks, api query, pandas/matplotlib and twitter API
     * ![PiPoem: A piece of code showing that a simple 4-verse poem (in French) can provide you with a most precise approximation of pi](https://github.com/E-Dmz/PiPoem)
 
 
-<!--
+
 **E-Dmz/E-Dmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I want to train as a data scientist because i think AI is going to reshape our world, for better and for worse  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  I'm also passionate about 💡🔧🧮 and 🙋‍♀️🙋‍♂️🚀  
 🧬💊🧠 = "biochemistry, pharmacology and neuroscience"   ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
